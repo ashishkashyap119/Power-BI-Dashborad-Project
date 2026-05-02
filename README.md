@@ -13,6 +13,4 @@ Stronger insurance coverage
 Sustainable national development
 Dashboard Conclusion:
 Your Hospital Management Insights Dashboard demonstrates how data analytics can identify healthcare gaps and guide better reforms.
-“Data-driven healthcare transformation is the future of India.”
-<img width="1981" height="557" alt="image" src="https://github.com/user-attachments/assets/66366ced-4a15-4556-92fb-3d3fdb3daf46" />
-
+“Data-driven healthcare transformation is the future of India.
